@@ -1,4 +1,4 @@
-﻿Timestamp for sample frequency every 30 min min,Temperature_Fahrenheit,Relative_Humidity
+﻿Time,Temperature_Fahrenheit,Relative_Humidity
 2021-05-03 20:49:00,75.56,61.1
 2021-05-03 21:19:00,73.22,68.5
 2021-05-03 21:49:00,72.86,67.9
